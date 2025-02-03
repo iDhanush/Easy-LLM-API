@@ -15,7 +15,7 @@ Easy LLM API allows you to quickly deploy any open-source Large Language Model (
 ### Run on Kaggle  
 Click the button below to open and run the notebook on Kaggle:
 
-[![Run in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/idhanush/easy-llm-api})
+[![Run in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/idhanush/easy-llm-api)
 
 ### Run on Google Colab  
 Click the button below to run the notebook on Google Colab:

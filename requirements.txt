@@ -1,0 +1,5 @@
+llmware
+fastapi
+nest-asyncio
+pyngrok
+uvicorn
